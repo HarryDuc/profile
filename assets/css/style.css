@@ -557,7 +557,7 @@ span {
         top: 100%;
         right: -100%;
         width: 255px;
-        min-height: 100vh;
+        max-height: 100vh;
         display: flex;
         flex-direction: column;
         background: rgba(0, 0, 0, 0.9);
